@@ -34,7 +34,7 @@ This repository contains the answers to Part 1, 2, 3, and 4.
 
 ## Part 4 - Web Server Programming
 
-### Task 1. 
+### Task 1. Write a query to calculate total number of customers available. 
 ```sql
 --This is my PostgreSQL script
 SELECT COUNT(*) “Number of Jobs” 
@@ -44,8 +44,12 @@ FROM jobs;
 //This is my Node.js and express script
 
 ```
+```bash
+//I fixed this error....
 
-### Task 2. 
+```
+
+### Task 2...14
 continue by updating this readme with your answers in part 4.
 
 <hr>
