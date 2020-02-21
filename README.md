@@ -2,12 +2,13 @@
 This repository contains the answers to Part 1, 2, 3, and 4.
 
 ## Part 1 - Multiple Choice
-1. e
-1. e
+1. b
+1. c
 
 ## Part 2 - True or False
-1. False
-1. True
+4. False
+7. True
+9. False
 
 ## Part 3 - Version Control using Git and Github
 
