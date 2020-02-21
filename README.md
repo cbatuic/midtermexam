@@ -45,6 +45,11 @@ FROM jobs;
 
 ```
 
+### Task 2. 
+continue by updating this readme with your answers in part 4.
+
+<hr>
+
 > Update this text here and write your Windows 10 Username and Password here.
 
 Username: ```<type your username here>``` <br>
