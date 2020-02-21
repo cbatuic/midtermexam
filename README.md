@@ -28,9 +28,9 @@ This repository contains the answers to Part 1, 2, 3, and 4.
     expressworks
     northwind
     ```
-- [ ] Switch and move your previous scripts to the newly created branches.
-- [ ] Update README.md and document every progress you've made.
-- [ ] Add remote and push to your respective repositories.
+- [X] Switch ```git checkout <branch>``` and move your previous scripts to the newly created respective branches.
+- [X] Update README.md and document every progress you've made. Good documentation may gain extra points as credit.
+- [X] Add remote and push to your newly created repository ```midtermexam```.
 
 ## Part 4 - Web Server Programming
 
@@ -44,3 +44,7 @@ FROM jobs;
 //This is my Node.js and express script
 
 ```
+
+> Update this text here and write your Windows 10 Username and Password here.
+    Username: <type your username here>
+    Password: <type your password here>
