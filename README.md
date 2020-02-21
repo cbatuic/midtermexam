@@ -7,7 +7,10 @@ This repository contains the answers to Part 1, 2, 3, and 4.
 
 ## Part 2 - True or False
 4. False
+5. -
+6. -
 7. True
+8. -
 9. False
 
 ## Part 3 - Version Control using Git and Github
