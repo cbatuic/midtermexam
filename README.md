@@ -46,5 +46,5 @@ FROM jobs;
 ```
 
 > Update this text here and write your Windows 10 Username and Password here.
-    Username: <type your username here>
-    Password: <type your password here>
+Username: ```<type your username here>```
+Password: ```<type your password here>```
